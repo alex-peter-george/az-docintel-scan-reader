@@ -1,0 +1,784 @@
+****Document content:
+Ontario
+Ministry of Colleges and Universities Student Financial Assistance Branch
+Ontario Learn and Stay Grant Employment Verification: Form A
+Date: May 1, 2024 Form ID: 123456789
+John Smith 111 Test St. Toronto, ON M6P 2T4
+School: QUEEN'S UNIVERSITY Program: MASTER OF NURSING-PHCNP Check-in period: Apr 30, 2024 to Oct 31, 2024 Service region: East
+Canada
+Section A: Employment Information
+Provide information about your employment in this section. If you have more than one employer, print and complete additional copies of this form as needed.
+1. What is the name of the organization where you are working?
+Name of organization:
+FREDS PHARMACY
+2. What is the address of the organization where you are working?
+Street number and name, rural route, or post office box:
+100 EAST AVE
+Street number and name, rural route, or post office box:
+City, town, or post office:
+KINGSTON
+Postal code:
+HOHOHO
+Area code and telephone number:
+6131112365
+3. What is the name of your position/occupation with this employer? :selected: Nurse Practitioner :unselected: Registered Nurse :selected: Registered Practical Nurse :unselected: Primary Care Paramedic :unselected: Medical Laboratory Technologist :unselected: Primary care paramedic in a Ministry of Health certified ambulance service operator :unselected: Ornge land ambulance asset in Northern Ontario
+Page 4
+4. What is your expected start date for the position?
+Day Month
+Year
+06 052024
+5. Will you (do you expect to) work at least 20 hours per month? :selected: Yes :unselected: No - complete 5a
+5a. How many hours per month do you expect to work?
+6. Will you (do you expect to) work at least 400 hours during the six months following your expected start date? :selected: Yes :unselected: No - complete 6a
+6a. How many hours during six months do you expect to work?
+Section B: Student declaration
+· I declare that the information provided on this form is complete and true.
+. I understand the requirements of my Service Commitment Agreement, including that any breach of this agreement may result in my Ontario Learn and Stay Grants being converted into a loan which I will be required to repay to Ontario.
+. I understand that information I provide in connection with service commitment information provided in this form will be verified and audited by NSLSC.
+. I understand that I may be required to repay all or part of the Ontario Learn and Stay Grant funds if the information and any supporting documentation I provide in connection with service commitment information provided in this form is found to be inaccurate.
+· I understand that if the service commitment requirements are not met, in accordance with my Service Commitment signed Agreement, I may be required to repay all or part of the Ontario Learn and Stay Grant funds.
+· I consent to my information being shared with and collected by the NSLSC for the purposes of administering the Ontario Learn and Stay Grant.
+Note: if you are completing this form electronically, use the "Fill & Sign" feature or "Digital ID" in Adobe Reader or your PDF program to add your signature.
+Signature of student:
+Ner Big
+Date:
+Day Month
+Year
+12042024
+Your personal information will be used to administer the Ontario Learn and Stay Grant, as set out in the notice of Collection and Use of Personal Information on your application and in accordance with the consents you signed on your application. The Ministry of Colleges and Universities administers and finances the Ontario Learn and Stay Grant under the legal authority set out on your application. If you have any questions about the collection, use and disclosure of your personal information, contact the Director, Student Financial Assistance Branch, Ministry of Colleges and Universities, PO Box 4500, 189 Red River Road, Thunder Bay, Ontario, P7B 6G9; 807-343-7260.
+Page 5
+
+****Analyzing Read from page 1
+.......Line # 0 has text content 'Ontario' within bounding box '[0.435, 0.302], [1.5043, 0.296], [1.5103, 0.5376], [0.435, 0.5436]'
+.......Line # 1 has text content 'Ministry of Colleges and Universities' within bounding box '[0.441, 0.7429], [2.4467, 0.7309], [2.4467, 0.8698], [0.441, 0.8879]'
+.......Line # 2 has text content 'Student Financial Assistance Branch' within bounding box '[0.441, 0.894], [2.4648, 0.8819], [2.4709, 1.0148], [0.441, 1.0268]'
+.......Line # 3 has text content 'Ontario Learn and Stay Grant' within bounding box '[5.0807, 0.4832], [7.8114, 0.4711], [7.8114, 0.7067], [5.0807, 0.7188]'
+.......Line # 4 has text content 'Employment Verification: Form A' within bounding box '[4.8391, 0.7611], [7.9322, 0.7369], [7.9382, 0.9604], [4.8391, 0.9966]'
+.......Line # 5 has text content 'Date: May 1, 2024' within bounding box '[5.413, 1.1537], [6.5487, 1.1537], [6.5487, 1.2986], [5.413, 1.3047]'
+.......Line # 6 has text content 'Form ID: 123456789' within bounding box '[5.4069, 1.3168], [6.6937, 1.3047], [6.6937, 1.4497], [5.4069, 1.4617]'
+.......Line # 7 has text content 'John Smith' within bounding box '[1.3532, 1.8785], [2.193, 1.8785], [2.193, 2.0295], [1.3532, 2.0356]'
+.......Line # 8 has text content '111 Test St.' within bounding box '[1.3714, 2.0537], [2.2534, 2.0537], [2.2534, 2.2047], [1.3714, 2.2047]'
+.......Line # 9 has text content 'Toronto, ON M6P 2T4' within bounding box '[1.3532, 2.2168], [3.0508, 2.1986], [3.0508, 2.3617], [1.3593, 2.3738]'
+.......Line # 10 has text content 'School: QUEEN'S UNIVERSITY' within bounding box '[5.413, 1.5946], [7.4428, 1.5825], [7.4428, 1.7215], [5.413, 1.7335]'
+.......Line # 11 has text content 'Program: MASTER OF NURSING-PHCNP' within bounding box '[5.413, 1.7517], [8.059, 1.7335], [8.059, 1.8725], [5.413, 1.8966]'
+.......Line # 12 has text content 'Check-in period: Apr 30, 2024 to Oct 31,' within bounding box '[5.413, 1.9027], [7.8959, 1.8906], [7.8959, 2.0356], [5.413, 2.0476]'
+.......Line # 13 has text content '2024' within bounding box '[5.4069, 2.0658], [5.7211, 2.0597], [5.7271, 2.1805], [5.413, 2.1805]'
+.......Line # 14 has text content 'Service region: East' within bounding box '[5.413, 2.1986], [6.6696, 2.1986], [6.6696, 2.3436], [5.413, 2.3436]'
+.......Line # 15 has text content 'Canada' within bounding box '[1.3593, 2.5913], [1.9453, 2.5913], [1.9453, 2.7362], [1.3593, 2.7362]'
+.......Line # 16 has text content 'Section A: Employment Information' within bounding box '[0.4591, 3.7631], [3.7577, 3.751], [3.7577, 3.9624], [0.4591, 3.9745]'
+.......Line # 17 has text content 'Provide information about your employment in this section. If you have more than one employer, print' within bounding box '[0.4471, 4.059], [7.9141, 4.0228], [7.9141, 4.2221], [0.4471, 4.2463]'
+.......Line # 18 has text content 'and complete additional copies of this form as needed.' within bounding box '[0.4471, 4.2644], [4.4766, 4.2402], [4.4766, 4.4214], [0.4531, 4.4456]'
+.......Line # 19 has text content '1. What is the name of the organization where you are working?' within bounding box '[0.4712, 4.6026], [5.564, 4.5966], [5.564, 4.7839], [0.4712, 4.7959]'
+.......Line # 20 has text content 'Name of organization:' within bounding box '[0.6947, 4.9047], [2.344, 4.8986], [2.344, 5.0798], [0.6947, 5.0859]'
+.......Line # 21 has text content 'FREDS PHARMACY' within bounding box '[0.7491, 5.1523], [4.0174, 5.1644], [4.0174, 5.4181], [0.7491, 5.4]'
+.......Line # 22 has text content '2. What is the address of the organization where you are working?' within bounding box '[0.4471, 5.6114], [5.7694, 5.5993], [5.7694, 5.7926], [0.4471, 5.7986]'
+.......Line # 23 has text content 'Street number and name, rural route, or post office box:' within bounding box '[0.7068, 5.8832], [4.7968, 5.8771], [4.7968, 6.0644], [0.7068, 6.0765]'
+.......Line # 24 has text content '100 EAST AVE' within bounding box '[0.737, 6.0765], [3.3046, 6.0765], [3.3046, 6.3483], [0.737, 6.3483]'
+.......Line # 25 has text content 'Street number and name, rural route, or post office box:' within bounding box '[0.7129, 6.451], [4.7968, 6.4449], [4.7968, 6.6261], [0.7129, 6.6382]'
+.......Line # 26 has text content 'City, town, or post office:' within bounding box '[0.7129, 7.0731], [2.5192, 7.061], [2.5192, 7.2483], [0.7129, 7.2603]'
+.......Line # 27 has text content 'KINGSTON' within bounding box '[0.7914, 7.2664], [2.4044, 7.2905], [2.4044, 7.5261], [0.7914, 7.502]'
+.......Line # 28 has text content 'Postal code:' within bounding box '[0.7189, 7.6409], [1.6311, 7.6409], [1.6251, 7.804], [0.7189, 7.804]'
+.......Line # 29 has text content 'HOHOHO' within bounding box '[0.737, 7.8523], [2.1205, 7.8644], [2.1144, 8.0999], [0.737, 8.0758]'
+.......Line # 30 has text content 'Area code and telephone number:' within bounding box '[2.9965, 7.6288], [5.5036, 7.6288], [5.5036, 7.7979], [2.9965, 7.7979]'
+.......Line # 31 has text content '6131112365' within bounding box '[3.0569, 7.804], [5.3465, 7.81], [5.3465, 8.0516], [3.0569, 8.0335]'
+.......Line # 32 has text content '3. What is the name of your position/occupation with this employer?' within bounding box '[0.4652, 8.2751], [5.9446, 8.257], [5.9446, 8.4563], [0.4652, 8.4684]'
+.......Line # 33 has text content 'Nurse Practitioner' within bounding box '[0.9606, 8.565], [2.3198, 8.565], [2.3198, 8.7462], [0.9606, 8.7402]'
+.......Line # 34 has text content 'Registered Nurse' within bounding box '[0.9666, 8.8429], [2.2836, 8.8429], [2.2836, 9.018], [0.9666, 9.018]'
+.......Line # 35 has text content 'Registered Practical Nurse' within bounding box '[0.9183, 9.1026], [2.9723, 9.1026], [2.9723, 9.314], [0.9183, 9.3201]'
+.......Line # 36 has text content 'Primary Care Paramedic' within bounding box '[0.9666, 9.4046], [2.8092, 9.4046], [2.8092, 9.5858], [0.9666, 9.5858]'
+.......Line # 37 has text content 'Medical Laboratory Technologist' within bounding box '[0.9606, 9.6885], [3.4012, 9.6885], [3.4012, 9.8758], [0.9606, 9.8697]'
+.......Line # 38 has text content 'Primary care paramedic in a Ministry of Health certified ambulance service operator' within bounding box '[0.9122, 9.9905], [7.1287, 9.9845], [7.1287, 10.1657], [0.9122, 10.1778]'
+.......Line # 39 has text content 'Ornge land ambulance asset in Northern Ontario' within bounding box '[0.9424, 10.2744], [4.5793, 10.2684], [4.5793, 10.4435], [0.9424, 10.4617]'
+.......Line # 40 has text content 'Page 4' within bounding box '[7.5576, 10.6066], [7.9684, 10.6066], [7.9684, 10.7274], [7.5576, 10.7274]'
+
+****Extracted words confidence levels
+.......Ontario:0.994
+.......Ministry:0.992
+.......of:0.995
+.......Colleges:0.982
+.......and:0.996
+.......Universities:0.98
+.......Student:0.994
+.......Financial:0.994
+.......Assistance:0.992
+.......Branch:0.995
+.......Ontario:0.994
+.......Learn:0.835
+.......and:0.996
+.......Stay:0.993
+.......Grant:0.992
+.......Employment:0.975
+.......Verification::0.949
+.......Form:0.983
+.......A:0.995
+.......Date::0.993
+.......May:0.997
+.......1,:0.995
+.......2024:0.993
+.......Form:0.993
+.......ID::0.995
+.......123456789:0.993
+.......John:0.993
+.......Smith:0.995
+.......111:0.995
+.......Test:0.993
+.......St.:0.995
+.......Toronto,:0.994
+.......ON:0.997
+.......M6P:0.994
+.......2T4:0.914
+.......School::0.993
+.......QUEEN'S:0.994
+.......UNIVERSITY:0.991
+.......Program::0.993
+.......MASTER:0.984
+.......OF:0.995
+.......NURSING-PHCNP:0.97
+.......Check-in:0.993
+.......period::0.99
+.......Apr:0.995
+.......30,:0.983
+.......2024:0.989
+.......to:0.995
+.......Oct:0.993
+.......31,:0.965
+.......2024:0.993
+.......Service:0.991
+.......region::0.978
+.......East:0.992
+.......Canada:0.995
+.......Section:0.994
+.......A::0.995
+.......Employment:0.99
+.......Information:0.97
+.......Provide:0.973
+.......information:0.983
+.......about:0.995
+.......your:0.992
+.......employment:0.973
+.......in:0.995
+.......this:0.991
+.......section.:0.986
+.......If:0.952
+.......you:0.991
+.......have:0.993
+.......more:0.993
+.......than:0.992
+.......one:0.995
+.......employer,:0.984
+.......print:0.995
+.......and:0.962
+.......complete:0.993
+.......additional:0.992
+.......copies:0.994
+.......of:0.947
+.......this:0.992
+.......form:0.99
+.......as:0.995
+.......needed.:0.993
+.......1.:0.995
+.......What:0.993
+.......is:0.995
+.......the:0.996
+.......name:0.991
+.......of:0.996
+.......the:0.997
+.......organization:0.993
+.......where:0.995
+.......you:0.996
+.......are:0.991
+.......working?:0.969
+.......Name:0.993
+.......of:0.995
+.......organization::0.986
+.......FREDS:0.996
+.......PHARMACY:0.996
+.......2.:0.995
+.......What:0.993
+.......is:0.996
+.......the:0.997
+.......address:0.986
+.......of:0.996
+.......the:0.994
+.......organization:0.984
+.......where:0.995
+.......you:0.997
+.......are:0.992
+.......working?:0.973
+.......Street:0.995
+.......number:0.994
+.......and:0.996
+.......name,:0.994
+.......rural:0.994
+.......route,:0.993
+.......or:0.997
+.......post:0.988
+.......office:0.994
+.......box::0.961
+.......100:0.999
+.......EAST:0.994
+.......AVE:0.999
+.......Street:0.993
+.......number:0.995
+.......and:0.996
+.......name,:0.994
+.......rural:0.995
+.......route,:0.993
+.......or:0.996
+.......post:0.973
+.......office:0.994
+.......box::0.978
+.......City,:0.994
+.......town,:0.994
+.......or:0.996
+.......post:0.993
+.......office::0.983
+.......KINGSTON:0.983
+.......Postal:0.995
+.......code::0.994
+.......HOHOHO:0.98
+.......Area:0.983
+.......code:0.974
+.......and:0.996
+.......telephone:0.994
+.......number::0.994
+.......6131112365:0.998
+.......3.:0.995
+.......What:0.993
+.......is:0.993
+.......the:0.995
+.......name:0.993
+.......of:0.995
+.......your:0.993
+.......position/occupation:0.978
+.......with:0.993
+.......this:0.982
+.......employer?:0.961
+.......Nurse:0.995
+.......Practitioner:0.987
+.......Registered:0.993
+.......Nurse:0.99
+.......Registered:0.981
+.......Practical:0.993
+.......Nurse:0.993
+.......Primary:0.994
+.......Care:0.993
+.......Paramedic:0.993
+.......Medical:0.992
+.......Laboratory:0.994
+.......Technologist:0.992
+.......Primary:0.993
+.......care:0.993
+.......paramedic:0.992
+.......in:0.995
+.......a:0.995
+.......Ministry:0.993
+.......of:0.993
+.......Health:0.995
+.......certified:0.99
+.......ambulance:0.993
+.......service:0.993
+.......operator:0.993
+.......Ornge:0.993
+.......land:0.987
+.......ambulance:0.995
+.......asset:0.995
+.......in:0.997
+.......Northern:0.995
+.......Ontario:0.994
+.......Page:0.993
+.......4:0.995
+
+****Extract user selections in all checkboxes
+**Selection question: 3. What is the name of your position/occupation with this employer?
+.......:selected: Nurse Practitioner
+.......:unselected: Registered Nurse
+.......:selected: Registered Practical Nurse
+.......:unselected: Primary Care Paramedic
+.......:unselected: Medical Laboratory Technologist
+.......:unselected: Primary care paramedic in a Ministry of Health certified ambulance service operator
+**Selection question: 5. Will you (do you expect to) work at least 20 hours a month?
+.......:selected: Yes
+.......:unselected: No - complete 5a
+**Selection question: 6. Will you (do you expect to) work at least 400 hours during the six months following your start date?
+.......:selected: Yes
+.......:unselected: No - complete 6a
+****Analyzing Read from page 2
+.......Line # 0 has text content '4. What is your expected start date for the position?' within bounding box '[0.4289, 0.2899], [4.6155, 0.2537], [4.6155, 0.447], [0.4289, 0.4832]'
+.......Line # 1 has text content 'Day Month' within bounding box '[0.737, 0.5376], [1.6734, 0.5255], [1.6795, 0.6886], [0.737, 0.7067]'
+.......Line # 2 has text content 'Year' within bounding box '[2.0299, 0.5255], [2.3984, 0.5195], [2.3984, 0.6765], [2.0299, 0.6825]'
+.......Line # 3 has text content '06 052024' within bounding box '[0.737, 0.7067], [2.7427, 0.6886], [2.7488, 0.9242], [0.737, 0.9362]'
+.......Line # 4 has text content '5. Will you (do you expect to) work at least 20 hours per month?' within bounding box '[0.4471, 1.1597], [5.5761, 1.1295], [5.5761, 1.3168], [0.4471, 1.353]'
+.......Line # 5 has text content 'Yes' within bounding box '[0.9243, 1.4436], [1.2385, 1.4497], [1.2385, 1.6188], [0.9243, 1.6067]'
+.......Line # 6 has text content 'No - complete 5a' within bounding box '[0.9364, 1.7335], [2.2715, 1.7275], [2.2715, 1.9147], [0.9364, 1.9268]'
+.......Line # 7 has text content '5a. How many hours per month do you expect to work?' within bounding box '[0.9606, 2.0114], [5.4311, 1.9872], [5.4311, 2.1745], [0.9606, 2.1986]'
+.......Line # 8 has text content '6. Will you (do you expect to) work at least 400 hours during the six months following your' within bounding box '[0.4531, 2.7362], [7.8234, 2.706], [7.8234, 2.8872], [0.4591, 2.9295]'
+.......Line # 9 has text content 'expected start date?' within bounding box '[0.6947, 2.9355], [2.338, 2.9235], [2.344, 3.1047], [0.7008, 3.1168]'
+.......Line # 10 has text content 'Yes' within bounding box '[0.9424, 3.2194], [1.2566, 3.2255], [1.2566, 3.3825], [0.9424, 3.3644]'
+.......Line # 11 has text content 'No - complete 6a' within bounding box '[0.9485, 3.5094], [2.2715, 3.5033], [2.2715, 3.6845], [0.9485, 3.6966]'
+.......Line # 12 has text content '6a. How many hours during six months do you expect to work?' within bounding box '[0.9666, 3.7812], [6.0594, 3.757], [6.0594, 3.9503], [0.9726, 3.9745]'
+.......Line # 13 has text content 'Section B: Student declaration' within bounding box '[0.4712, 4.7416], [3.3046, 4.7355], [3.3046, 4.9288], [0.4712, 4.9349]'
+.......Line # 14 has text content '· I declare that the information provided on this form is complete and true.' within bounding box '[0.5014, 5.0375], [6.0473, 5.0255], [6.0473, 5.2067], [0.5014, 5.2188]'
+.......Line # 15 has text content '. I understand the requirements of my Service Commitment Agreement, including that any breach' within bounding box '[0.5135, 5.2369], [7.7811, 5.2127], [7.7811, 5.3939], [0.5135, 5.4181]'
+.......Line # 16 has text content 'of this agreement may result in my Ontario Learn and Stay Grants being converted into a loan' within bounding box '[0.725, 5.4302], [7.6603, 5.406], [7.6664, 5.5812], [0.725, 5.6114]'
+.......Line # 17 has text content 'which I will be required to repay to Ontario.' within bounding box '[0.731, 5.6114], [3.9147, 5.6053], [3.9147, 5.7926], [0.731, 5.7986]'
+.......Line # 18 has text content '. I understand that information I provide in connection with service commitment information' within bounding box '[0.5195, 5.8107], [7.316, 5.7926], [7.316, 5.9677], [0.5195, 5.9919]'
+.......Line # 19 has text content 'provided in this form will be verified and audited by NSLSC.' within bounding box '[0.7189, 6.004], [5.129, 5.9859], [5.129, 6.1671], [0.7189, 6.1912]'
+.......Line # 20 has text content '. I understand that I may be required to repay all or part of the Ontario Learn and Stay Grant funds' within bounding box '[0.5014, 6.1912], [7.8899, 6.1671], [7.8959, 6.3543], [0.5014, 6.3724]'
+.......Line # 21 has text content 'if the information and any supporting documentation I provide in connection with service' within bounding box '[0.737, 6.3845], [7.2193, 6.3724], [7.2193, 6.5476], [0.737, 6.5718]'
+.......Line # 22 has text content 'commitment information provided in this form is found to be inaccurate.' within bounding box '[0.737, 6.5778], [5.9809, 6.5597], [5.9809, 6.7409], [0.737, 6.759]'
+.......Line # 23 has text content '· I understand that if the service commitment requirements are not met, in accordance with my' within bounding box '[0.5014, 6.765], [7.5939, 6.759], [7.5939, 6.9402], [0.5014, 6.9523]'
+.......Line # 24 has text content 'Service Commitment signed Agreement, I may be required to repay all or part of the Ontario' within bounding box '[0.7431, 6.9644], [7.5455, 6.9463], [7.5455, 7.1395], [0.7431, 7.1516]'
+.......Line # 25 has text content 'Learn and Stay Grant funds.' within bounding box '[0.737, 7.1637], [2.8575, 7.1577], [2.8575, 7.3328], [0.737, 7.3449]'
+.......Line # 26 has text content '· I consent to my information being shared with and collected by the NSLSC for the purposes of' within bounding box '[0.5075, 7.3449], [7.6362, 7.3328], [7.6362, 7.5201], [0.5075, 7.5322]'
+.......Line # 27 has text content 'administering the Ontario Learn and Stay Grant.' within bounding box '[0.7552, 7.5442], [4.2289, 7.5382], [4.2289, 7.7194], [0.7552, 7.7315]'
+.......Line # 28 has text content 'Note: if you are completing this form electronically, use the "Fill & Sign" feature or "Digital ID" in' within bounding box '[0.5498, 7.8402], [7.4912, 7.8342], [7.4912, 8.0214], [0.5498, 8.0335]'
+.......Line # 29 has text content 'Adobe Reader or your PDF program to add your signature.' within bounding box '[0.5437, 8.0275], [4.9055, 8.0275], [4.8995, 8.2207], [0.5437, 8.2147]'
+.......Line # 30 has text content 'Signature of student:' within bounding box '[0.5256, 8.3234], [2.2051, 8.3234], [2.2051, 8.5046], [0.5256, 8.5046]'
+.......Line # 31 has text content 'Ner Big' within bounding box '[0.7854, 8.6134], [2.1869, 8.5952], [2.193, 8.9576], [0.7854, 8.9697]'
+.......Line # 32 has text content 'Date:' within bounding box '[5.8117, 8.3295], [6.2406, 8.3234], [6.2406, 8.4805], [5.8117, 8.4744]'
+.......Line # 33 has text content 'Day Month' within bounding box '[5.9084, 8.5167], [6.8387, 8.5167], [6.8387, 8.6858], [5.9084, 8.6919]'
+.......Line # 34 has text content 'Year' within bounding box '[7.1227, 8.5228], [7.4912, 8.5228], [7.4912, 8.6738], [7.1227, 8.6738]'
+.......Line # 35 has text content '12042024' within bounding box '[5.8479, 8.7583], [7.8597, 8.7704], [7.8536, 9.0362], [5.8479, 9.006]'
+.......Line # 36 has text content 'Your personal information will be used to administer the Ontario Learn and Stay Grant, as set out in the' within bounding box '[0.3927, 9.1932], [8.0047, 9.1872], [8.0047, 9.3563], [0.3927, 9.3623]'
+.......Line # 37 has text content 'notice of Collection and Use of Personal Information on your application and in accordance with the' within bounding box '[0.3987, 9.3744], [7.7207, 9.3744], [7.7207, 9.5496], [0.3987, 9.5556]'
+.......Line # 38 has text content 'consents you signed on your application. The Ministry of Colleges and Universities administers and' within bounding box '[0.3987, 9.5617], [7.7026, 9.5496], [7.7026, 9.7308], [0.3987, 9.7489]'
+.......Line # 39 has text content 'finances the Ontario Learn and Stay Grant under the legal authority set out on your application. If you' within bounding box '[0.4048, 9.7429], [7.8476, 9.7429], [7.8476, 9.9422], [0.3987, 9.9362]'
+.......Line # 40 has text content 'have any questions about the collection, use and disclosure of your personal information, contact the' within bounding box '[0.3987, 9.9543], [7.8234, 9.9543], [7.8234, 10.1294], [0.3987, 10.1355]'
+.......Line # 41 has text content 'Director, Student Financial Assistance Branch, Ministry of Colleges and Universities, PO Box 4500, 189' within bounding box '[0.4048, 10.1355], [8.0168, 10.1355], [8.0168, 10.3227], [0.4048, 10.3227]'
+.......Line # 42 has text content 'Red River Road, Thunder Bay, Ontario, P7B 6G9; 807-343-7260.' within bounding box '[0.3987, 10.3288], [5.2136, 10.3227], [5.2136, 10.51], [0.4048, 10.51]'
+.......Line # 43 has text content 'Page 5' within bounding box '[7.5576, 10.6308], [7.9745, 10.6308], [7.9684, 10.7697], [7.5576, 10.7637]'
+
+****Extracted words confidence levels
+.......4.:0.995
+.......What:0.986
+.......is:0.995
+.......your:0.993
+.......expected:0.991
+.......start:0.994
+.......date:0.992
+.......for:0.995
+.......the:0.996
+.......position?:0.962
+.......Day:0.997
+.......Month:0.995
+.......Year:0.992
+.......06:0.992
+.......052024:0.964
+.......5.:0.995
+.......Will:0.992
+.......you:0.995
+.......(do:0.989
+.......you:0.995
+.......expect:0.994
+.......to):0.988
+.......work:0.993
+.......at:0.995
+.......least:0.995
+.......20:0.997
+.......hours:0.992
+.......per:0.995
+.......month?:0.973
+.......Yes:0.995
+.......No:0.995
+.......-:0.962
+.......complete:0.993
+.......5a:0.995
+.......5a.:0.995
+.......How:0.997
+.......many:0.993
+.......hours:0.995
+.......per:0.996
+.......month:0.995
+.......do:0.996
+.......you:0.982
+.......expect:0.995
+.......to:0.997
+.......work?:0.995
+.......6.:0.995
+.......Will:0.992
+.......you:0.995
+.......(do:0.995
+.......you:0.995
+.......expect:0.993
+.......to):0.991
+.......work:0.993
+.......at:0.995
+.......least:0.994
+.......400:0.995
+.......hours:0.994
+.......during:0.993
+.......the:0.992
+.......six:0.995
+.......months:0.994
+.......following:0.993
+.......your:0.989
+.......expected:0.994
+.......start:0.995
+.......date?:0.993
+.......Yes:0.995
+.......No:0.995
+.......-:0.995
+.......complete:0.993
+.......6a:0.995
+.......6a.:0.995
+.......How:0.997
+.......many:0.985
+.......hours:0.995
+.......during:0.995
+.......six:0.995
+.......months:0.995
+.......do:0.996
+.......you:0.995
+.......expect:0.994
+.......to:0.997
+.......work?:0.982
+.......Section:0.994
+.......B::0.962
+.......Student:0.993
+.......declaration:0.991
+.......·:0.542
+.......I:0.924
+.......declare:0.994
+.......that:0.992
+.......the:0.993
+.......information:0.99
+.......provided:0.993
+.......on:0.995
+.......this:0.992
+.......form:0.992
+.......is:0.995
+.......complete:0.993
+.......and:0.996
+.......true.:0.983
+........:0.604
+.......I:0.883
+.......understand:0.991
+.......the:0.996
+.......requirements:0.983
+.......of:0.995
+.......my:0.995
+.......Service:0.993
+.......Commitment:0.99
+.......Agreement,:0.977
+.......including:0.993
+.......that:0.993
+.......any:0.995
+.......breach:0.97
+.......of:0.995
+.......this:0.992
+.......agreement:0.989
+.......may:0.995
+.......result:0.942
+.......in:0.996
+.......my:0.995
+.......Ontario:0.994
+.......Learn:0.993
+.......and:0.995
+.......Stay:0.987
+.......Grants:0.995
+.......being:0.995
+.......converted:0.994
+.......into:0.993
+.......a:0.995
+.......loan:0.992
+.......which:0.995
+.......I:0.8
+.......will:0.987
+.......be:0.995
+.......required:0.993
+.......to:0.996
+.......repay:0.993
+.......to:0.996
+.......Ontario.:0.983
+........:0.615
+.......I:0.86
+.......understand:0.993
+.......that:0.993
+.......information:0.992
+.......I:0.657
+.......provide:0.994
+.......in:0.995
+.......connection:0.983
+.......with:0.993
+.......service:0.992
+.......commitment:0.974
+.......information:0.989
+.......provided:0.993
+.......in:0.996
+.......this:0.992
+.......form:0.992
+.......will:0.993
+.......be:0.973
+.......verified:0.99
+.......and:0.995
+.......audited:0.984
+.......by:0.995
+.......NSLSC.:0.986
+........:0.631
+.......I:0.839
+.......understand:0.992
+.......that:0.992
+.......I:0.853
+.......may:0.992
+.......be:0.995
+.......required:0.991
+.......to:0.995
+.......repay:0.994
+.......all:0.995
+.......or:0.995
+.......part:0.99
+.......of:0.995
+.......the:0.996
+.......Ontario:0.993
+.......Learn:0.956
+.......and:0.993
+.......Stay:0.993
+.......Grant:0.993
+.......funds:0.995
+.......if:0.995
+.......the:0.996
+.......information:0.991
+.......and:0.996
+.......any:0.995
+.......supporting:0.991
+.......documentation:0.986
+.......I:0.729
+.......provide:0.995
+.......in:0.995
+.......connection:0.986
+.......with:0.983
+.......service:0.993
+.......commitment:0.99
+.......information:0.991
+.......provided:0.993
+.......in:0.995
+.......this:0.978
+.......form:0.992
+.......is:0.995
+.......found:0.995
+.......to:0.995
+.......be:0.995
+.......inaccurate.:0.977
+.......·:0.568
+.......I:0.885
+.......understand:0.98
+.......that:0.992
+.......if:0.995
+.......the:0.996
+.......service:0.993
+.......commitment:0.985
+.......requirements:0.977
+.......are:0.995
+.......not:0.995
+.......met,:0.989
+.......in:0.995
+.......accordance:0.979
+.......with:0.992
+.......my:0.994
+.......Service:0.993
+.......Commitment:0.972
+.......signed:0.967
+.......Agreement,:0.982
+.......I:0.89
+.......may:0.989
+.......be:0.995
+.......required:0.992
+.......to:0.995
+.......repay:0.995
+.......all:0.995
+.......or:0.995
+.......part:0.99
+.......of:0.995
+.......the:0.996
+.......Ontario:0.993
+.......Learn:0.993
+.......and:0.993
+.......Stay:0.993
+.......Grant:0.995
+.......funds.:0.993
+.......·:0.577
+.......I:0.879
+.......consent:0.993
+.......to:0.995
+.......my:0.951
+.......information:0.973
+.......being:0.994
+.......shared:0.994
+.......with:0.992
+.......and:0.995
+.......collected:0.99
+.......by:0.934
+.......the:0.996
+.......NSLSC:0.993
+.......for:0.995
+.......the:0.996
+.......purposes:0.991
+.......of:0.995
+.......administering:0.98
+.......the:0.996
+.......Ontario:0.994
+.......Learn:0.994
+.......and:0.992
+.......Stay:0.993
+.......Grant.:0.982
+.......Note::0.991
+.......if:0.995
+.......you:0.99
+.......are:0.995
+.......completing:0.983
+.......this:0.988
+.......form:0.989
+.......electronically,:0.967
+.......use:0.995
+.......the:0.995
+......."Fill:0.929
+.......&:0.972
+.......Sign":0.948
+.......feature:0.981
+.......or:0.993
+......."Digital:0.939
+.......ID":0.958
+.......in:0.995
+.......Adobe:0.995
+.......Reader:0.994
+.......or:0.995
+.......your:0.993
+.......PDF:0.979
+.......program:0.994
+.......to:0.995
+.......add:0.995
+.......your:0.992
+.......signature.:0.993
+.......Signature:0.994
+.......of:0.996
+.......student::0.994
+.......Ner:0.677
+.......Big:0.729
+.......Date::0.993
+.......Day:0.997
+.......Month:0.995
+.......Year:0.993
+.......12042024:0.999
+.......Your:0.992
+.......personal:0.992
+.......information:0.986
+.......will:0.992
+.......be:0.995
+.......used:0.991
+.......to:0.995
+.......administer:0.965
+.......the:0.996
+.......Ontario:0.993
+.......Learn:0.987
+.......and:0.995
+.......Stay:0.993
+.......Grant,:0.993
+.......as:0.995
+.......set:0.995
+.......out:0.995
+.......in:0.996
+.......the:0.995
+.......notice:0.994
+.......of:0.995
+.......Collection:0.983
+.......and:0.995
+.......Use:0.995
+.......of:0.995
+.......Personal:0.99
+.......Information:0.961
+.......on:0.995
+.......your:0.98
+.......application:0.983
+.......and:0.995
+.......in:0.995
+.......accordance:0.974
+.......with:0.993
+.......the:0.995
+.......consents:0.983
+.......you:0.995
+.......signed:0.993
+.......on:0.914
+.......your:0.968
+.......application.:0.977
+.......The:0.996
+.......Ministry:0.991
+.......of:0.993
+.......Colleges:0.943
+.......and:0.996
+.......Universities:0.977
+.......administers:0.984
+.......and:0.996
+.......finances:0.991
+.......the:0.995
+.......Ontario:0.985
+.......Learn:0.993
+.......and:0.995
+.......Stay:0.992
+.......Grant:0.995
+.......under:0.994
+.......the:0.992
+.......legal:0.993
+.......authority:0.991
+.......set:0.995
+.......out:0.995
+.......on:0.996
+.......your:0.992
+.......application.:0.963
+.......If:0.936
+.......you:0.995
+.......have:0.992
+.......any:0.995
+.......questions:0.988
+.......about:0.995
+.......the:0.995
+.......collection,:0.975
+.......use:0.995
+.......and:0.995
+.......disclosure:0.976
+.......of:0.995
+.......your:0.992
+.......personal:0.993
+.......information,:0.975
+.......contact:0.993
+.......the:0.995
+.......Director,:0.991
+.......Student:0.99
+.......Financial:0.993
+.......Assistance:0.993
+.......Branch,:0.993
+.......Ministry:0.973
+.......of:0.995
+.......Colleges:0.993
+.......and:0.996
+.......Universities,:0.974
+.......PO:0.995
+.......Box:0.995
+.......4500,:0.993
+.......189:0.996
+.......Red:0.995
+.......River:0.995
+.......Road,:0.992
+.......Thunder:0.994
+.......Bay,:0.993
+.......Ontario,:0.993
+.......P7B:0.995
+.......6G9;:0.987
+.......807-343-7260.:0.966
+.......Page:0.993
+.......5:0.962
+
+****Extract user selections in all checkboxes
+**Selection question: 3. What is the name of your position/occupation with this employer?
+.......:selected: Nurse Practitioner
+.......:unselected: Registered Nurse
+.......:selected: Registered Practical Nurse
+.......:unselected: Primary Care Paramedic
+.......:unselected: Medical Laboratory Technologist
+.......:unselected: Primary care paramedic in a Ministry of Health certified ambulance service operator
+**Selection question: 5. Will you (do you expect to) work at least 20 hours a month?
+.......:selected: Yes
+.......:unselected: No - complete 5a
+**Selection question: 6. Will you (do you expect to) work at least 400 hours during the six months following your start date?
+.......:selected: Yes
+.......:unselected: No - complete 6a
