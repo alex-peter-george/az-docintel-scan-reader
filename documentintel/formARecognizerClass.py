@@ -1,5 +1,6 @@
 class FormARecognizerClass():
     def __init__(self, func):
+        # inject the document analysis function
         self.func = func
 
     def analyzeDocument(self):
