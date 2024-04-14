@@ -1,0 +1,428 @@
+****Document content:
+Wellness for the Body INTEGRATIVE HEALTH CARE CENTRE
+Wellness for the Body Inc. 2418 Lakeshore Road West, Oakville, ON L6L 1H7 905-465-4595 :selected: info@wellnessforthebody.co
+Daniela Georgescu 1353 Goldhawk Trail, Oakville, ON L6M 3Y5 Tel: +12898150307 Email: antongeorgescu@yahoo.ca
+Receip
+Items and Payments
+Items
+Details
+Amount
+November 11, 2022 - 9:00am, Registered Massage Therapy (30 minutes) Li Jian (Cynthia) Luo RMT - Registered Massage Therapist, License #V946
+Invoice #128330-P01
+$57.52
+Cynthia VE
+Li Jian (Cynthia) Luo RMT - Registered Massage Therapist
+Payments
+Friday November 11, 2022 - 9:37am
+Visa Daniela Georgescu
+Subtotal
+$57.52
+HST
+$7.48
+Payer Total
+$65.00
+$65.
+Upcoming Appointments
+HST No. 828076141
+Wellness for the Body INTEGRATIVE HEALTH CARE CENTRE
+Wellness for the Body Inc. 2418 Lakeshore Road West, Oakville, ON L6L 1H7 905-465-4595 Info@wellnessforthebody.com :selected:
+Daniela Georgescu 1353 Goldhawk Trail, Oakville, ON L6M 3Y5 Tel: +12898150307 Email: antongeorgescu@yahoo.ca
+Receipt
+Items and Payments
+Items
+Details
+Amount
+November 11, 2022 - 9:00am, Registered Massage Therapy (30 minutes) Li Jian (Cynthia) Luo RMT - Registered Massage Therapist, License #V946
+Invoice #128330-P01
+$57.52
+Subtotal $57.52
+HST
+$7.48
+Cynthia VE
+Payer Total
+$65.00
+Li Jian (Cynthia) Luo RMT - Registered Massage Therapist
+Payments
+Friday November 11, 2022 - 9:37am
+Visa Daniela Georgescu
+$65.00
+HST No. 828076141
+Upcoming Appointments
+Monday November 14
+7:00pm
+45 Min Massage with Oleksii (Alex) Gorobets
+Monday November 21
+7:00pm
+30 Min Massage with Oleksii (Alex) Gorobets
+Thursday November 24
+30 Min Massage with Li Jian (Cynthia) Luo 7:00pm
+You have 3 additional appointments booked. View the full list by visiting wellnessforthebody.janeapp.com.
+Wellness for the Body Inc. - 905-465-4595 - info@wellnessforthebody.com Book your next appointment at: https://wellnessforthebody.janeapp.com/
+To submit to insurance company this coming Monday, Nov 15, 2022
+Anton Georgescu :selected:
+
+****Analyzing Read from page 1
+.......Line # 0 has text content 'Wellness for the Body' within bounding box '[1.2376, 0.5808], [4.4505, 0.5808], [4.4454, 0.9444], [1.2326, 0.9141]'
+.......Line # 1 has text content 'INTEGRATIVE HEALTH CARE CENTRE' within bounding box '[1.5458, 0.9444], [4.107, 0.9343], [4.107, 1.0909], [1.5508, 1.101]'
+.......Line # 2 has text content 'Wellness for the Body Inc.' within bounding box '[9.5778, 0.3131], [11.6338, 0.2172], [11.6338, 0.4141], [9.5829, 0.4798]'
+.......Line # 3 has text content '2418 Lakeshore Road West, Oakville, ON L6L 1H7' within bounding box '[8.0775, 0.5455], [11.6338, 0.4394], [11.6338, 0.6515], [8.0826, 0.7172]'
+.......Line # 4 has text content '905-465-4595' within bounding box '[8.0826, 0.7374], [9.3303, 0.7475], [9.3303, 0.9444], [8.0826, 0.9343]'
+.......Line # 5 has text content 'info@wellnessforthebody.co' within bounding box '[9.3657, 0.7626], [11.6338, 0.6818], [11.6338, 0.8737], [9.3707, 0.9242]'
+.......Line # 6 has text content 'Daniela Georgescu' within bounding box '[0.3233, 1.3636], [1.7984, 1.3737], [1.7984, 1.5354], [0.3233, 1.5253]'
+.......Line # 7 has text content '1353 Goldhawk Trail, Oakville, ON L6M 3Y5' within bounding box '[0.3183, 1.5657], [3.4603, 1.5404], [3.4603, 1.702], [0.3183, 1.7172]'
+.......Line # 8 has text content 'Tel: +12898150307' within bounding box '[0.3132, 1.7727], [1.6519, 1.7677], [1.6519, 1.9343], [0.3132, 1.9444]'
+.......Line # 9 has text content 'Email: antongeorgescu@yahoo.ca' within bounding box '[0.3031, 2.0051], [2.7279, 2.0], [2.7279, 2.1616], [0.3031, 2.1667]'
+.......Line # 10 has text content 'Receip' within bounding box '[10.5427, 1.5152], [11.6288, 1.5101], [11.6338, 1.8131], [10.5427, 1.8333]'
+.......Line # 11 has text content 'Items and Payments' within bounding box '[0.4445, 2.4444], [2.2581, 2.4495], [2.2581, 2.6515], [0.4445, 2.6414]'
+.......Line # 12 has text content 'Items' within bounding box '[0.5658, 2.9495], [0.9901, 2.9495], [0.9901, 3.0859], [0.5658, 3.0859]'
+.......Line # 13 has text content 'Details' within bounding box '[8.2139, 2.9697], [8.7544, 2.9697], [8.7544, 3.1061], [8.2139, 3.1061]'
+.......Line # 14 has text content 'Amount' within bounding box '[10.9317, 2.9545], [11.5783, 2.9192], [11.5833, 3.0657], [10.9367, 3.101]'
+.......Line # 15 has text content 'November 11, 2022 - 9:00am, Registered Massage Therapy (30 minutes)' within bounding box '[0.5557, 3.2626], [5.8144, 3.2677], [5.8144, 3.4545], [0.5557, 3.4444]'
+.......Line # 16 has text content 'Li Jian (Cynthia) Luo RMT - Registered Massage Therapist, License #V946' within bounding box '[0.5607, 3.4444], [5.9255, 3.4444], [5.9255, 3.6212], [0.5607, 3.6212]'
+.......Line # 17 has text content 'Invoice #128330-P01' within bounding box '[8.224, 3.298], [9.7445, 3.298], [9.7445, 3.4697], [8.224, 3.4646]'
+.......Line # 18 has text content '$57.52' within bounding box '[11.0428, 3.3081], [11.5934, 3.2828], [11.5985, 3.4545], [11.0479, 3.4798]'
+.......Line # 19 has text content 'Cynthia VE' within bounding box '[0.5052, 4.8939], [3.2936, 4.7879], [3.3492, 5.6313], [0.5405, 5.803]'
+.......Line # 20 has text content 'Li Jian (Cynthia) Luo RMT - Registered Massage Therapist' within bounding box '[0.5203, 5.8434], [5.2638, 5.8737], [5.2638, 6.0657], [0.5203, 6.0354]'
+.......Line # 21 has text content 'Payments' within bounding box '[0.5203, 6.3485], [1.2882, 6.3535], [1.2882, 6.5152], [0.5203, 6.5152]'
+.......Line # 22 has text content 'Friday November 11, 2022 - 9:37am' within bounding box '[0.5153, 6.7071], [3.1623, 6.7071], [3.1623, 6.8788], [0.5153, 6.8788]'
+.......Line # 23 has text content 'Visa' within bounding box '[6.1175, 6.7475], [6.4307, 6.7576], [6.4307, 6.8939], [6.1175, 6.8939]'
+.......Line # 24 has text content 'Daniela Georgescu' within bounding box '[7.1884, 6.7424], [8.6332, 6.7424], [8.6332, 6.9293], [7.1834, 6.9192]'
+.......Line # 25 has text content 'Subtotal' within bounding box '[9.6738, 4.0758], [10.28, 4.0758], [10.28, 4.2121], [9.6738, 4.2121]'
+.......Line # 26 has text content '$57.52' within bounding box '[11.0933, 4.0455], [11.6288, 4.0354], [11.6338, 4.197], [11.0933, 4.2071]'
+.......Line # 27 has text content 'HST' within bounding box '[9.9769, 4.4192], [10.3053, 4.4192], [10.3053, 4.5859], [9.9719, 4.5859]'
+.......Line # 28 has text content '$7.48' within bounding box '[11.2196, 4.4091], [11.6338, 4.4192], [11.6338, 4.5505], [11.2247, 4.5657]'
+.......Line # 29 has text content 'Payer Total' within bounding box '[9.492, 4.7879], [10.3255, 4.7879], [10.3255, 4.9646], [9.492, 4.9596]'
+.......Line # 30 has text content '$65.00' within bounding box '[11.1186, 4.7727], [11.6288, 4.7576], [11.6338, 4.9192], [11.1236, 4.9343]'
+.......Line # 31 has text content '$65.' within bounding box '[11.255, 6.7374], [11.6338, 6.7475], [11.6338, 6.8838], [11.255, 6.8939]'
+.......Line # 32 has text content 'Upcoming Appointments' within bounding box '[0.3991, 8.0808], [2.738, 8.0808], [2.738, 8.298], [0.3991, 8.298]'
+.......Line # 33 has text content 'HST No. 828076141' within bounding box '[5.481, 7.4646], [6.9308, 7.4646], [6.9308, 7.6162], [5.481, 7.6162]'
+
+****Extracted words confidence levels
+.......Wellness:0.994
+.......for:0.996
+.......the:0.997
+.......Body:0.982
+.......INTEGRATIVE:0.991
+.......HEALTH:0.993
+.......CARE:0.993
+.......CENTRE:0.995
+.......Wellness:0.993
+.......for:0.995
+.......the:0.995
+.......Body:0.992
+.......Inc.:0.771
+.......2418:0.991
+.......Lakeshore:0.989
+.......Road:0.99
+.......West,:0.99
+.......Oakville,:0.973
+.......ON:0.995
+.......L6L:0.995
+.......1H7:0.86
+.......905-465-4595:0.17
+.......info@wellnessforthebody.co:0.937
+.......Daniela:0.993
+.......Georgescu:0.993
+.......1353:0.981
+.......Goldhawk:0.994
+.......Trail,:0.991
+.......Oakville,:0.98
+.......ON:0.995
+.......L6M:0.995
+.......3Y5:0.995
+.......Tel::0.987
+.......+12898150307:0.993
+.......Email::0.972
+.......antongeorgescu@yahoo.ca:0.946
+.......Receip:0.994
+.......Items:0.754
+.......and:0.995
+.......Payments:0.983
+.......Items:0.845
+.......Details:0.994
+.......Amount:0.995
+.......November:0.993
+.......11,:0.995
+.......2022:0.989
+.......-:0.995
+.......9:00am,:0.98
+.......Registered:0.983
+.......Massage:0.994
+.......Therapy:0.992
+.......(30:0.993
+.......minutes):0.973
+.......Li:0.995
+.......Jian:0.99
+.......(Cynthia):0.961
+.......Luo:0.994
+.......RMT:0.995
+.......-:0.993
+.......Registered:0.993
+.......Massage:0.993
+.......Therapist,:0.983
+.......License:0.993
+.......#V946:0.993
+.......Invoice:0.974
+.......#128330-P01:0.563
+.......$57.52:0.995
+.......Cynthia:0.723
+.......VE:0.158
+.......Li:0.997
+.......Jian:0.989
+.......(Cynthia):0.981
+.......Luo:0.993
+.......RMT:0.995
+.......-:0.996
+.......Registered:0.993
+.......Massage:0.994
+.......Therapist:0.993
+.......Payments:0.995
+.......Friday:0.995
+.......November:0.993
+.......11,:0.995
+.......2022:0.99
+.......-:0.995
+.......9:37am:0.993
+.......Visa:0.987
+.......Daniela:0.994
+.......Georgescu:0.993
+.......Subtotal:0.994
+.......$57.52:0.993
+.......HST:0.995
+.......$7.48:0.994
+.......Payer:0.995
+.......Total:0.995
+.......$65.00:0.572
+.......$65.:0.983
+.......Upcoming:0.993
+.......Appointments:0.969
+.......HST:0.996
+.......No.:0.995
+.......828076141:0.992
+****Analyzing Read from page 2
+.......Line # 0 has text content 'Wellness for the Body' within bounding box '[0.8679, 0.4191], [3.1213, 0.4389], [3.1164, 0.7298], [0.8629, 0.6805]'
+.......Line # 1 has text content 'INTEGRATIVE HEALTH CARE CENTRE' within bounding box '[1.0897, 0.7051], [2.8797, 0.7051], [2.8797, 0.8333], [1.0897, 0.8235]'
+.......Line # 2 has text content 'Wellness for the Body Inc.' within bounding box '[6.642, 0.3008], [8.0621, 0.2515], [8.0671, 0.4142], [6.6469, 0.4537]'
+.......Line # 3 has text content '2418 Lakeshore Road West, Oakville, ON L6L 1H7' within bounding box '[5.6164, 0.4635], [8.0621, 0.4241], [8.0621, 0.5967], [5.6164, 0.6213]'
+.......Line # 4 has text content '905-465-4595 Info@wellnessforthebody.com' within bounding box '[5.6065, 0.6114], [8.0966, 0.5967], [8.0966, 0.7791], [5.6065, 0.789]'
+.......Line # 5 has text content 'Daniela Georgescu' within bounding box '[0.2268, 1.0158], [1.2673, 1.0257], [1.2673, 1.1539], [0.2268, 1.144]'
+.......Line # 6 has text content '1353 Goldhawk Trail, Oakville, ON L6M 3Y5' within bounding box '[0.2268, 1.1687], [2.426, 1.1687], [2.426, 1.2919], [0.2268, 1.287]'
+.......Line # 7 has text content 'Tel: +12898150307' within bounding box '[0.2219, 1.3412], [1.1588, 1.3412], [1.1588, 1.4547], [0.2219, 1.4497]'
+.......Line # 8 has text content 'Email: antongeorgescu@yahoo.ca' within bounding box '[0.2219, 1.504], [1.9181, 1.5138], [1.9132, 1.6371], [0.2219, 1.6272]'
+.......Line # 9 has text content 'Receipt' within bounding box '[7.2485, 1.2476], [8.0819, 1.218], [8.0917, 1.4497], [7.2584, 1.4744]'
+.......Line # 10 has text content 'Items and Payments' within bounding box '[0.3205, 1.8343], [1.5976, 1.8442], [1.5927, 2.002], [0.3205, 1.9921]'
+.......Line # 11 has text content 'Items' within bounding box '[0.4142, 2.2288], [0.715, 2.2288], [0.715, 2.3275], [0.4142, 2.3225]'
+.......Line # 12 has text content 'Details' within bounding box '[5.641, 2.3028], [5.9961, 2.3028], [5.9961, 2.4014], [5.641, 2.4014]'
+.......Line # 13 has text content 'Amount' within bounding box '[7.4507, 2.3077], [7.8797, 2.2979], [7.8797, 2.3965], [7.4556, 2.4113]'
+.......Line # 14 has text content 'November 11, 2022 - 9:00am, Registered Massage Therapy (30 minutes)' within bounding box '[0.4142, 2.4754], [4.0335, 2.5099], [4.0335, 2.6529], [0.4142, 2.5987]'
+.......Line # 15 has text content 'Li Jian (Cynthia) Luo RMT - Registered Massage Therapist, License #V946' within bounding box '[0.4142, 2.6036], [4.0976, 2.643], [4.0976, 2.7762], [0.4142, 2.7269]'
+.......Line # 16 has text content 'Invoice #128330-P01' within bounding box '[5.641, 2.5543], [6.6568, 2.5543], [6.6568, 2.6628], [5.641, 2.6578]'
+.......Line # 17 has text content '$57.52' within bounding box '[7.5099, 2.5691], [7.8748, 2.5641], [7.8797, 2.6776], [7.5099, 2.6874]'
+.......Line # 18 has text content 'Subtotal' within bounding box '[6.5779, 3.1213], [6.9921, 3.1263], [6.9921, 3.2249], [6.5779, 3.22]'
+.......Line # 19 has text content '$57.52' within bounding box '[7.5247, 3.1066], [7.8748, 3.1016], [7.8797, 3.215], [7.5247, 3.22]'
+.......Line # 20 has text content 'HST' within bounding box '[6.7702, 3.3926], [6.9872, 3.3827], [6.9872, 3.4813], [6.7751, 3.4813]'
+.......Line # 21 has text content '$7.48' within bounding box '[7.5888, 3.3728], [7.8748, 3.358], [7.8797, 3.4715], [7.5937, 3.4764]'
+.......Line # 22 has text content 'Cynthia VE' within bounding box '[0.3797, 3.6391], [2.3422, 3.5947], [2.357, 4.221], [0.3945, 4.2456]'
+.......Line # 23 has text content 'Payer Total' within bounding box '[6.4349, 3.644], [6.9872, 3.6391], [6.9872, 3.7624], [6.4349, 3.7624]'
+.......Line # 24 has text content '$65.00' within bounding box '[7.5049, 3.6342], [7.8846, 3.6243], [7.8895, 3.7279], [7.5049, 3.7377]'
+.......Line # 25 has text content 'Li Jian (Cynthia) Luo RMT - Registered Massage Therapist' within bounding box '[0.4142, 4.3788], [3.5996, 4.4083], [3.5996, 4.5464], [0.4142, 4.5168]'
+.......Line # 26 has text content 'Payments' within bounding box '[0.4093, 4.7437], [0.9517, 4.7437], [0.9467, 4.862], [0.4093, 4.8571]'
+.......Line # 27 has text content 'Friday November 11, 2022 - 9:37am' within bounding box '[0.4142, 5.0001], [2.2041, 5.005], [2.2041, 5.1283], [0.4093, 5.1233]'
+.......Line # 28 has text content 'Visa' within bounding box '[4.1568, 5.0445], [4.3688, 5.0445], [4.3688, 5.1431], [4.1568, 5.1381]'
+.......Line # 29 has text content 'Daniela Georgescu' within bounding box '[4.8619, 5.0346], [5.8136, 5.0395], [5.8136, 5.1579], [4.8619, 5.148]'
+.......Line # 30 has text content '$65.00' within bounding box '[7.5099, 5.0198], [7.8846, 5.0198], [7.8846, 5.1283], [7.5099, 5.1332]'
+.......Line # 31 has text content 'HST No. 828076141' within bounding box '[3.7278, 5.5425], [4.6795, 5.5425], [4.6795, 5.6559], [3.7278, 5.651]'
+.......Line # 32 has text content 'Upcoming Appointments' within bounding box '[0.3353, 5.9764], [1.928, 5.9715], [1.928, 6.1293], [0.3353, 6.1391]'
+.......Line # 33 has text content 'Monday November 14' within bounding box '[0.6065, 6.3561], [1.8146, 6.3512], [1.8146, 6.4794], [0.6065, 6.4892]'
+.......Line # 34 has text content '7:00pm' within bounding box '[2.5592, 6.3561], [2.9536, 6.3561], [2.9536, 6.4597], [2.5542, 6.4547]'
+.......Line # 35 has text content '45 Min Massage with Oleksii (Alex) Gorobets' within bounding box '[4.2653, 6.2772], [6.4448, 6.2772], [6.4448, 6.4054], [4.2653, 6.4054]'
+.......Line # 36 has text content 'Monday November 21' within bounding box '[0.5966, 6.7703], [1.7998, 6.7555], [1.8047, 6.8887], [0.5966, 6.9035]'
+.......Line # 37 has text content '7:00pm' within bounding box '[2.4211, 6.7407], [2.9536, 6.7506], [2.9536, 6.8788], [2.4211, 6.8739]'
+.......Line # 38 has text content '30 Min Massage with Oleksii (Alex) Gorobets' within bounding box '[4.2554, 6.6766], [6.4497, 6.6766], [6.4497, 6.8048], [4.2554, 6.8098]'
+.......Line # 39 has text content 'Thursday November 24' within bounding box '[0.6065, 7.1796], [1.8935, 7.1697], [1.8935, 7.2979], [0.6065, 7.3078]'
+.......Line # 40 has text content '30 Min Massage with Li Jian (Cynthia) Luo' within bounding box '[4.2604, 7.081], [6.3116, 7.081], [6.3116, 7.2092], [4.2604, 7.2092]'
+.......Line # 41 has text content '7:00pm' within bounding box '[2.3866, 7.1401], [2.9536, 7.1599], [2.9487, 7.2831], [2.3866, 7.2684]'
+.......Line # 42 has text content 'You have 3 additional appointments booked. View the full list by visiting wellnessforthebody.janeapp.com.' within bounding box '[0.3748, 7.4952], [5.6607, 7.4508], [5.6607, 7.5741], [0.3748, 7.6283]'
+.......Line # 43 has text content 'Wellness for the Body Inc. - 905-465-4595 - info@wellnessforthebody.com' within bounding box '[2.3028, 7.8551], [6.1243, 7.8305], [6.1243, 7.9538], [2.3028, 7.9883]'
+.......Line # 44 has text content 'Book your next appointment at: https://wellnessforthebody.janeapp.com/' within bounding box '[2.3225, 7.9981], [6.1144, 7.9686], [6.1144, 8.1066], [2.3225, 8.1411]'
+.......Line # 45 has text content 'To submit to insurance company' within bounding box '[1.7702, 8.4222], [6.3511, 8.4222], [6.3511, 8.7279], [1.7702, 8.7378]'
+.......Line # 46 has text content 'this coming Monday, Nov 15, 2022' within bounding box '[2.3619, 8.8364], [7.5888, 8.7329], [7.5937, 9.083], [2.3619, 9.1569]'
+.......Line # 47 has text content 'Anton Georgescu' within bounding box '[4.8767, 9.2556], [7.431, 9.2358], [7.4408, 9.5021], [4.8767, 9.5761]'
+
+****Extracted words confidence levels
+.......Wellness:0.994
+.......for:0.997
+.......the:0.997
+.......Body:0.993
+.......INTEGRATIVE:0.99
+.......HEALTH:0.993
+.......CARE:0.993
+.......CENTRE:0.994
+.......Wellness:0.982
+.......for:0.991
+.......the:0.996
+.......Body:0.993
+.......Inc.:0.961
+.......2418:0.983
+.......Lakeshore:0.993
+.......Road:0.99
+.......West,:0.991
+.......Oakville,:0.964
+.......ON:0.995
+.......L6L:0.991
+.......1H7:0.995
+.......905-465-4595:0.961
+.......Info@wellnessforthebody.com:0.943
+.......Daniela:0.993
+.......Georgescu:0.983
+.......1353:0.992
+.......Goldhawk:0.99
+.......Trail,:0.841
+.......Oakville,:0.982
+.......ON:0.994
+.......L6M:0.995
+.......3Y5:0.995
+.......Tel::0.99
+.......+12898150307:0.991
+.......Email::0.929
+.......antongeorgescu@yahoo.ca:0.955
+.......Receipt:0.994
+.......Items:0.833
+.......and:0.996
+.......Payments:0.993
+.......Items:0.842
+.......Details:0.994
+.......Amount:0.992
+.......November:0.963
+.......11,:0.995
+.......2022:0.988
+.......-:0.995
+.......9:00am,:0.971
+.......Registered:0.986
+.......Massage:0.991
+.......Therapy:0.994
+.......(30:0.995
+.......minutes):0.991
+.......Li:0.945
+.......Jian:0.993
+.......(Cynthia):0.989
+.......Luo:0.995
+.......RMT:0.995
+.......-:0.995
+.......Registered:0.991
+.......Massage:0.986
+.......Therapist,:0.976
+.......License:0.993
+.......#V946:0.994
+.......Invoice:0.992
+.......#128330-P01:0.887
+.......$57.52:0.993
+.......Subtotal:0.995
+.......$57.52:0.993
+.......HST:0.995
+.......$7.48:0.995
+.......Cynthia:0.649
+.......VE:0.159
+.......Payer:0.995
+.......Total:0.995
+.......$65.00:0.995
+.......Li:0.996
+.......Jian:0.991
+.......(Cynthia):0.994
+.......Luo:0.995
+.......RMT:0.995
+.......-:0.995
+.......Registered:0.993
+.......Massage:0.982
+.......Therapist:0.993
+.......Payments:0.994
+.......Friday:0.995
+.......November:0.993
+.......11,:0.994
+.......2022:0.982
+.......-:0.993
+.......9:37am:0.993
+.......Visa:0.961
+.......Daniela:0.978
+.......Georgescu:0.994
+.......$65.00:0.994
+.......HST:0.995
+.......No.:0.995
+.......828076141:0.993
+.......Upcoming:0.961
+.......Appointments:0.966
+.......Monday:0.993
+.......November:0.994
+.......14:0.995
+.......7:00pm:0.991
+.......45:0.997
+.......Min:0.948
+.......Massage:0.995
+.......with:0.993
+.......Oleksii:0.965
+.......(Alex):0.993
+.......Gorobets:0.993
+.......Monday:0.995
+.......November:0.993
+.......21:0.995
+.......7:00pm:0.853
+.......30:0.996
+.......Min:0.995
+.......Massage:0.994
+.......with:0.973
+.......Oleksii:0.596
+.......(Alex):0.994
+.......Gorobets:0.995
+.......Thursday:0.994
+.......November:0.994
+.......24:0.995
+.......30:0.996
+.......Min:0.996
+.......Massage:0.994
+.......with:0.993
+.......Li:0.995
+.......Jian:0.991
+.......(Cynthia):0.993
+.......Luo:0.995
+.......7:00pm:0.756
+.......You:0.995
+.......have:0.992
+.......3:0.995
+.......additional:0.97
+.......appointments:0.979
+.......booked.:0.993
+.......View:0.989
+.......the:0.995
+.......full:0.992
+.......list:0.992
+.......by:0.995
+.......visiting:0.989
+.......wellnessforthebody.janeapp.com.:0.939
+.......Wellness:0.986
+.......for:0.995
+.......the:0.996
+.......Body:0.981
+.......Inc.:0.927
+.......-:0.965
+.......905-465-4595:0.983
+.......-:0.961
+.......info@wellnessforthebody.com:0.962
+.......Book:0.982
+.......your:0.992
+.......next:0.99
+.......appointment:0.961
+.......at::0.993
+.......https://wellnessforthebody.janeapp.com/:0.889
+.......To:0.996
+.......submit:0.964
+.......to:0.996
+.......insurance:0.689
+.......company:0.93
+.......this:0.985
+.......coming:0.964
+.......Monday,:0.697
+.......Nov:0.994
+.......15,:0.964
+.......2022:0.994
+.......Anton:0.654
+.......Georgescu:0.759
